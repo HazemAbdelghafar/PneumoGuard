@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412447033732",
+    "project_id": "pneumo-guard",
+    "storage_bucket": "pneumo-guard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412447033732:android:33d10c30a4bb56780635d1",
+        "android_client_info": {
+          "package_name": "com.example.pneumoguardapp.pneumoguardapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq08GBy7J0MBd02H1g-AMgeHnDlFHDi8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
