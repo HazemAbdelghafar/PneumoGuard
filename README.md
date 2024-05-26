@@ -1,16 +1,25 @@
-# pneumoguardapp
+# PneumoGuard
 
-A new Flutter project.
+PneumoGuard is a Flutter application that provides [short description of your application].
+
+## Features
+
+- User authentication (login, signup, password reset)
+- Profile management (change email, change password, change display name)
+- Chat functionality
+- Detection feature
+- Hospital locator
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK
+- Dart SDK
+- Android Studio or VS Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repo
